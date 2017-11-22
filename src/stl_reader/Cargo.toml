@@ -1,0 +1,10 @@
+[package]
+name = "stl_reader"
+version = "0.1.0"
+authors = ["ibriggs"]
+
+[dependencies]
+byteorder = "*"
+cvector = { path = "../cvector" }
+triangle = { path = "../triangle" }
+ray = { path = "../ray" }

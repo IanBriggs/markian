@@ -1,0 +1,6 @@
+[package]
+name = "cvector"
+version = "0.1.0"
+authors = ["ibriggs"]
+
+[dependencies]
